@@ -1,0 +1,7 @@
+Read an integer N . For all non-negative integers  i<N, printi^2 . See the sample for details.
+
+n=5
+if (n>=0 and n<20):
+    for i in range(0,n):
+        x=i ** 2
+        print(x)
